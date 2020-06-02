@@ -1,6 +1,9 @@
 # Webpack Starter App
 
-Webpack dev environment
+Webpack dev/prod environment
+
+## Credit
+[GitHub Link](https://github.com/bradtraversy/webpack_app)
 
 ### Version
 1.0.0
